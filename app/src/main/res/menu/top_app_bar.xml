@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/addPersonBtn"
+        android:icon="@drawable/ic_add_24px"
+        android:title="@string/plus_icon_string"
+        android:contentDescription="@string/plus_icon_main"
+        app:showAsAction="ifRoom" />
+
+</menu>

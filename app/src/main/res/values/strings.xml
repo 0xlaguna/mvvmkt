@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recycler</string>
+    <string name="plus_icon_main">Plus icon main</string>
+    <string name="plus_icon_string">Plus icon string</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_nombre_persona">Nombre</string>
+    <string name="input_edad_persona">Edad</string>
+    <string name="descripcion_string">Descripcion</string>
+</resources>
